@@ -4,7 +4,7 @@ This GitHub repository hosts the course materials for the Python for Engineers c
 
 Access lecture notes, code samples, and practical examples that will help you master Python and streamline your engineering workflows. Explore the repository and dive into the world of Python programming tailored for engineers
 
-[Enroll Now!](https://james-site-4eb3.thinkific.com/courses/your-first-course)
+[Course Page](https://james-site-4eb3.thinkific.com/courses/your-first-course)
 
 # What is Python for Engineers?
 
